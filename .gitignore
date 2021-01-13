@@ -1,0 +1,4 @@
+# Golandのプロジェクト設定ファイル
+.idea
+# SQLデータのバイナリファイル
+stockdata.sql
